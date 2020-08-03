@@ -6,7 +6,7 @@ body{
 }
 
 #bloc{
-margin-top: 45%;
+margin-top: 40%;
 }
 
 .direction{
@@ -22,4 +22,10 @@ margin-top: 45%;
     font-size: 20px;
     border: 0;
     border-radius: 5px;
+}
+a {
+    outline: none;
+}
+button{
+    outline: none;
 }
