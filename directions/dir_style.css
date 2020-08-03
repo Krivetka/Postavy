@@ -7,7 +7,7 @@
     transform: translate(-50%, 0);
 }
 .icons{
-    margin-top: 20px;
+    margin-top: 5px;
     float: left;
 }
 h2{
@@ -19,6 +19,7 @@ h2{
     padding: 8px;
     padding-right: 14px;
     padding-left: 14px;
+    margin-top: 5px;
 }
 .name{
     float: right;
