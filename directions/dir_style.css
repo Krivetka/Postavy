@@ -10,7 +10,7 @@
     margin-top: 5px;
     float: left;
 }
-h2{
+.name h2{
     font-family: 'Source Serif Pro', serif;
     background: #24a0ed;
     color: white;
