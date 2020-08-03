@@ -4,7 +4,7 @@ body{
 }
 
 #bloc{
-margin-top: 15%;
+margin-top: 30%;
 }
 
 .direction{
@@ -12,12 +12,12 @@ margin-top: 15%;
     left: 50%;
     transform: translate(-50%, 0);
     margin-top: 5px;
-    width: 200px;
-    height: 30px;
+    width: 260px;
+    height: 40px;
     background: #24a0ed;
     color: #ffffff;
-    font-family: "Times New Roman";
-    font-size: 16px;
+    font-family: "Cambria";
+    font-size: 18px;
     border: 0;
     border-radius: 5px;
 }
