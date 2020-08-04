@@ -39,3 +39,46 @@
     font-size: 24px;
     margin-top: 10px;
 }
+.map{
+    background: rgba(38, 173, 255, 0.59);
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.stop1{
+    float: left;
+    text-align: left;
+    margin-left: 30px;
+    font-family: 'Source Serif Pro', serif;
+}
+.stop2{
+    text-align: right;
+    margin-right: 30px;
+}
+.time1{
+    margin-top: 10px;
+    font-size: 26px;
+    color: white;
+    text-shadow:
+            1px 1px 0 black,
+            1px -1px 0 black,
+            -1px 1px 0 black,
+            -1px -1px 0 black;
+}
+.time2{
+    font-size: 26px;
+    padding-top: 10px;
+    color: white;
+    text-shadow:
+            1px 1px 0 black,
+            1px -1px 0 black,
+            -1px 1px 0 black,
+            -1px -1px 0 black;
+}
+
+.AB{
+    margin-top: -20px;
+    opacity: 80%;
+    padding-bottom: 15px;
+}
+
