@@ -39,26 +39,23 @@
     font-size: 24px;
     margin-top: 10px;
 }
-.title{
-    text-align: center;
-    margin-top: -30px;
-    margin-bottom: 30px;
-}
 .map{
     background: rgba(38, 173, 255, 0.63);
     border-radius: 25px;
     margin-left: 5px;
     margin-right: 5px;
     margin-top: -20px;
-    margin-bottom: -10px;
-    padding-bottom: -20px;
+    margin-bottom: -19px;
 }
-
+.title{
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
 .stop1{
     float: left;
     text-align: left;
     margin-left: 30px;
-    margin-top: 5px;
 }
 .stop2{
     text-align: right;
@@ -76,7 +73,7 @@
 }
 .time2{
     font-size: 26px;
-    padding-top: 15px;
+    padding-top: 10px;
     color: white;
     text-shadow:
             1px 1px 0 black,
@@ -90,5 +87,19 @@
     margin-top: -20px;
     opacity: 80%;
     padding-bottom: 15px;
+}
+.data select{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 310px;
+    height: 40px;
+    margin-top: -20px;
+    border: 1px solid #999;
+    font-size: 18px;
+    color: #1c87c9;
+    background-color: #eee;
+    border-radius: 5px;
+    box-shadow: 4px 4px #ccc;
 }
 
