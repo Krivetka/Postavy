@@ -6,7 +6,7 @@ var bud_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">8:00</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -28,7 +28,7 @@ var bud_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">9:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -39,7 +39,7 @@ var bud_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">11:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -50,7 +50,7 @@ var bud_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">17:20</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -72,7 +72,7 @@ var bud_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:55</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br> `;
@@ -84,7 +84,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">8:00</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -106,7 +106,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">9:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -117,7 +117,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">11:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -139,7 +139,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">17:20</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -161,7 +161,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">17:05</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -172,7 +172,7 @@ var pjt_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:55</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br> `;
@@ -184,7 +184,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">8:00</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -195,7 +195,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">8:30</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -206,7 +206,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">9:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -228,7 +228,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">11:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -239,7 +239,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:25</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -261,7 +261,7 @@ var sub_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:55</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br> `;
@@ -273,7 +273,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">8:00</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -284,7 +284,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">9:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -295,7 +295,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">11:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -306,7 +306,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">14:45</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -317,7 +317,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:25</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -339,7 +339,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">18:55</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br>
@@ -361,7 +361,7 @@ var njd_P_M=`
             </div>
             <div class="stop2">
             <h2 class="time2">21:05</h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
         </div>
         <br> `;
@@ -370,7 +370,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 7:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">11:40</h2>
@@ -381,7 +381,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 9:47 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">12:45</h2>
@@ -392,7 +392,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 10:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">13:05</h2>
@@ -403,7 +403,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 11:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:15</h2>
@@ -414,7 +414,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:50</h2>
@@ -425,7 +425,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 13:17 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
@@ -436,7 +436,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 17:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">20:05</h2>
@@ -447,7 +447,7 @@ var bud_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 20:37 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">23:35</h2>
@@ -459,7 +459,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 7:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">11:40</h2>
@@ -470,7 +470,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 9:47 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">12:45</h2>
@@ -481,7 +481,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 10:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">13:05</h2>
@@ -492,7 +492,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 11:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:15</h2>
@@ -503,7 +503,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:50</h2>
@@ -514,7 +514,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 13:17 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
@@ -525,7 +525,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 17:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">20:05</h2>
@@ -547,7 +547,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 18:45 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">21:20</h2>
@@ -558,7 +558,7 @@ var pjt_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 20:37 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">23:35</h2>
@@ -570,7 +570,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 7:20 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">11:40</h2>
@@ -581,7 +581,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 9:47 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">12:45</h2>
@@ -592,7 +592,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 10:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">13:05</h2>
@@ -603,7 +603,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 11:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:15</h2>
@@ -614,7 +614,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:50</h2>
@@ -625,7 +625,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 13:17 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
@@ -636,7 +636,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 13:50 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">16:25</h2>
@@ -647,7 +647,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 17:30 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">20:05</h2>
@@ -658,7 +658,7 @@ var sub_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 20:37 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">23:35</h2>
@@ -670,7 +670,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 7:20 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">11:40</h2>
@@ -681,7 +681,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 9:47 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">12:45</h2>
@@ -692,7 +692,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 11:40 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:15</h2>
@@ -703,7 +703,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">14:50</h2>
@@ -714,7 +714,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 13:17 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
@@ -725,7 +725,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 16:37 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">19:45</h2>
@@ -736,7 +736,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 17:50 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">20:25</h2>
@@ -747,7 +747,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 18:45 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">21:25</h2>
@@ -769,7 +769,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 20:37 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">23:35</h2>
@@ -780,7 +780,7 @@ var njd_M_P=`
         <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 22:00 </h2>
-            <p class="AB">АВ Минск Центральный</p>
+            <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
             <h2 class="time2">00:35</h2>
