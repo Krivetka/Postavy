@@ -8,14 +8,14 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: black;
+    color: rgba(50, 50, 50, 0.95);
 }
 a:active {
-    color: black;
+    color: rgba(50, 50, 50, 0.95);
 }
 span{
     background: #24a0ed;
-    margin: 20px;
+    margin: 8px;
     padding: 12px 24px 12px 24px ;
     color: white;
     border-radius: 5px;
