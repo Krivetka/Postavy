@@ -1,5 +1,5 @@
 var bud_P_M=` 
-        <div class = "map" >
+        <a href="drivers/ATP.html"> <div class = "map" >
             <div class = "stop1" >
             <h2 class = "time1" > 5:15 </h2>
             <p class="AB">АВ Поставы</p>
@@ -9,6 +9,7 @@ var bud_P_M=`
             <p class="AB">АВ Минск</p>
             </div>
         </div>
+        </a>
         <br>
         <div class = "map" >
             <div class = "stop1" >

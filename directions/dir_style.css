@@ -106,3 +106,8 @@
     box-shadow: 4px 4px #ccc;
     outline: none;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}

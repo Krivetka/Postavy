@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+.info {
+    border: #0067ff solid 2px;
+    border-radius: 10px;
+    background: white;
+}
+body{
+    background: linear-gradient(
+            -45deg,
+            rgba(72, 209, 204, 0) 2px,
+            #26adff 3px,
+            rgba(72, 209, 204, 0) 3px )
+    repeat;
+    background-size: 4px 4px;
+}
+
+h2{
+    margin-left: 20px;
+    letter-spacing: .05em;
+}
+
