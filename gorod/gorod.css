@@ -16,11 +16,11 @@ a:active {
 span{
     background: #24a0ed;
     margin: 5px;
-    padding: 4px 17px 4px 17px ;
+    padding: 4px 14px 4px 14px ;
     color: white;
     border-radius: 5px;
     text-shadow: none;
-    font-size: 34px;
+    font-size: 28px;
 }
 
 .menu{
@@ -33,15 +33,13 @@ span{
     margin-top: 5px;
     float: left;
 }
-.name h2{
+.name h4{
     font-family: 'Source Serif Pro', serif;
     background: #24a0ed;
     color: white;
     text-shadow: 1px 1px 2px black;
-    font-size: 24px;
-    padding: 8px;
-    padding-right: 14px;
-    padding-left: 14px;
+    font-size: 18px;
+    padding: 11px 13px 11px 13px;
     margin-top: 5px;
     border-radius: 5px;
     box-shadow: 2px 2px #c0c5cc;
@@ -67,6 +65,7 @@ span{
 h2{
     text-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
     margin-top: -2px;
+    font-size: 20px;
 }
 
 .d1 {
