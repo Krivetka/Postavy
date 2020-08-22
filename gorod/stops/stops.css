@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
 span{
  color: #1c59c1;
 }
@@ -5,6 +6,7 @@ h2{
     padding-left: 10px;
     margin: 10px;
     word-spacing: 15px;
+    font-family: 'Source Serif Pro', serif;
 }
 .bl{
     background: rgba(76, 175, 255, 0.20);
@@ -15,7 +17,7 @@ h2{
 }
 #vokzal{
     word-spacing: 1px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .pl{
     text-decoration: underline;
