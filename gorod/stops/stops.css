@@ -4,6 +4,7 @@ span{
 }
 .title{
     margin-top: -20px;
+    margin-bottom: 2px;
     word-spacing: normal;
     font-size: 22px;
     display: inline-block;
@@ -30,9 +31,8 @@ h3{
     padding: 1px 14px 1px 14px;
     border-radius: 5px;
     color: white;
-    margin-top: 0px;
+    margin-top: -5px;
     margin-left: 2px;
-    margin-bottom: 6px;
     float: right;
 }
 .bl{
