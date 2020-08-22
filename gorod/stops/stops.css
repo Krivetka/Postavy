@@ -14,12 +14,23 @@ h1{
     text-align: center;
     color: white;
     text-shadow: #010305 2px 1px;
+    margin-bottom: 10px;
 }
 h2{
     padding-left: 10px;
     margin: 10px;
     word-spacing: 15px;
     font-family: 'Source Serif Pro', serif;
+}
+h3{
+    display: inline-block;
+    font-family: 'Source Serif Pro', serif;
+    background: #0067ff;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-top: -30px;
+    margin-bottom: 10px;
 }
 .bl{
     background: rgba(76, 175, 255, 0.20);
