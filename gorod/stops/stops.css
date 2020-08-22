@@ -3,12 +3,15 @@ span{
  color: #1c59c1;
 }
 .title{
+    margin-top: -10px;
     word-spacing: normal;
     font-size: 22px;
 }
 h1{
+    margin-top: -5px;
     padding-left: 16px;
     background: #4cafff;
+    text-align: center;
     color: white;
     text-shadow: #010305 2px 1px;
 }
