@@ -141,6 +141,19 @@ var pjt_P_M=`
         </div>
         </a>
         <br>
+        <a href="drivers/TIMYR.html"> 
+        <div class = "map" >
+            <div class = "stop1" >
+            <h2 class = "time1" > 11:00 </h2>
+            <p class="AB">Поставы</p>
+            </div>
+            <div class="stop2">
+            <h2 class="time2">13:30</h2>
+            <p class="AB">Минск</p>
+            </div>
+        </div>
+        </a>
+        <br>
          <a href="drivers/ATP.html"> 
         <div class = "map" >
             <div class = "stop1" >
@@ -471,19 +484,6 @@ var bud_M_P=`
         </div>
         </a>
         <br>
-        <a href="drivers/CEREC.html"> 
-        <div class = "map" >
-            <div class = "stop1" >
-            <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск</p>
-            </div>
-            <div class="stop2">
-            <h2 class="time2">14:50</h2>
-            <p class="AB">АВ Поставы</p>
-            </div>
-        </div>
-        </a>
-        <br>
          <a href="drivers/ATP.html"> 
         <div class = "map" >
             <div class = "stop1" >
@@ -492,6 +492,19 @@ var bud_M_P=`
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
+            <p class="AB">АВ Поставы</p>
+            </div>
+        </div>
+        </a>
+        <br>
+        <a href="drivers/CEREC.html"> 
+        <div class = "map" >
+            <div class = "stop1" >
+            <h2 class = "time1" > 15:00 </h2>
+            <p class="AB">АВ Минск</p>
+            </div>
+            <div class="stop2">
+            <h2 class="time2">17:55</h2>
             <p class="AB">АВ Поставы</p>
             </div>
         </div>
@@ -579,7 +592,7 @@ var pjt_M_P=`
         <a href="drivers/CEREC.html"> 
         <div class = "map" >
             <div class = "stop1" >
-            <h2 class = "time1" > 12:15 </h2>
+            <h2 class = "time1" > 11:55 </h2>
             <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
@@ -597,19 +610,6 @@ var pjt_M_P=`
             </div>
             <div class="stop2">
             <h2 class="time2">16:15</h2>
-            <p class="AB">АВ Поставы</p>
-            </div>
-        </div>
-        </a>
-        <br>
-         <a href="drivers/ATP.html"> 
-        <div class = "map" >
-            <div class = "stop1" >
-            <h2 class = "time1" > 16:37 </h2>
-            <p class="AB">АВ Минск</p>
-            </div>
-            <div class="stop2">
-            <h2 class="time2">19:45</h2>
             <p class="AB">АВ Поставы</p>
             </div>
         </div>
@@ -644,11 +644,11 @@ var pjt_M_P=`
         <a href="drivers/CEREC.html"> 
         <div class = "map" >
             <div class = "stop1" >
-            <h2 class = "time1" > 18:45 </h2>
+            <h2 class = "time1" > 18:25 </h2>
             <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
-            <h2 class="time2">21:20</h2>
+            <h2 class="time2">21:25</h2>
             <p class="AB">АВ Поставы</p>
             </div>
         </div>
@@ -715,19 +715,6 @@ var sub_M_P=`
             </div>
             <div class="stop2">
             <h2 class="time2">14:15</h2>
-            <p class="AB">АВ Поставы</p>
-            </div>
-        </div>
-        </a>
-        <br>
-        <a href="drivers/CEREC.html"> 
-        <div class = "map" >
-            <div class = "stop1" >
-            <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск</p>
-            </div>
-            <div class="stop2">
-            <h2 class="time2">14:50</h2>
             <p class="AB">АВ Поставы</p>
             </div>
         </div>
@@ -825,19 +812,6 @@ var njd_M_P=`
         </div>
         </a>
         <br>
-        <a href="drivers/CEREC.html"> 
-        <div class = "map" >
-            <div class = "stop1" >
-            <h2 class = "time1" > 12:15 </h2>
-            <p class="AB">АВ Минск</p>
-            </div>
-            <div class="stop2">
-            <h2 class="time2">14:50</h2>
-            <p class="AB">АВ Поставы</p>
-            </div>
-        </div>
-        </a>
-        <br>
          <a href="drivers/ATP.html"> 
         <div class = "map" >
             <div class = "stop1" >
@@ -851,14 +825,14 @@ var njd_M_P=`
         </div>
         </a>
         <br>
-         <a href="drivers/ATP.html"> 
+         <a href="drivers/CEREC.html"> 
         <div class = "map" >
             <div class = "stop1" >
-            <h2 class = "time1" > 16:37 </h2>
+            <h2 class = "time1" > 15:00 </h2>
             <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
-            <h2 class="time2">19:45</h2>
+            <h2 class="time2">17:55</h2>
             <p class="AB">АВ Поставы</p>
             </div>
         </div>
@@ -906,7 +880,7 @@ var njd_M_P=`
         <a href="drivers/CEREC.html"> 
         <div class = "map" >
             <div class = "stop1" >
-            <h2 class = "time1" > 22:00 </h2>
+            <h2 class = "time1" > 21:40 </h2>
             <p class="AB">АВ Минск</p>
             </div>
             <div class="stop2">
